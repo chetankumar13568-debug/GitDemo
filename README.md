@@ -1,2 +1,3 @@
 # GitDemo
-chetan kumar
+ Author =>> chetan kumar
+This is my first repository. 
